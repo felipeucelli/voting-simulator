@@ -122,7 +122,7 @@ int main(){
             printf("Apuração Vereador Final:\n\n");
             printf("Vereador João do Frete: %d votos\n", tot_vereador[0]);
             printf("Vereadora Maria da Pamonha: %d votos\n", tot_vereador[1]);
-            printf("Vereador Zé da Farm�cia: %d votos\n", tot_vereador[2]);
+            printf("Vereador Zé da Farmácia: %d votos\n", tot_vereador[2]);
             printf("Votos Nulos: %d votos\n\n", tot_vereador[3]);
             printf("----------------------------------------\n");
             printf("Apuração Prefeito Final:\n\n");
@@ -140,7 +140,7 @@ int main(){
         }else{
             //Imprime uma mensagem de erro caso a opção escolida for inválida
             printf("----------------------------------\n");
-            printf("Por favor, digite um op��o v�lida!\n");
+            printf("Por favor, digite um opção v�lida!\n");
             printf("----------------------------------\n\n");
         }
 
