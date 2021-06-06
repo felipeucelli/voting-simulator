@@ -1,4 +1,5 @@
 // @autor: Felipe Ucelli
+// @github: github.com/felipeucelli
 
 #include <stdio.h>
 #include <stdbool.h>
@@ -36,7 +37,7 @@ int main(){
     int tot_prefeito[3] = {0, 0, 0};
     bool main_loop = true;
 
-    setlocale(LC_ALL, "portuguese");
+    setlocale(LC_ALL, "Portuguese");
 
     screen_wipe();
 
